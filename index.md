@@ -1,5 +1,5 @@
 ---
-title: "Test on GitHub Page
+title: "Test on GitHub Page"
 permalink: /
 layout: default
 ---
